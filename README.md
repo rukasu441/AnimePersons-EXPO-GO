@@ -2,7 +2,7 @@
 
 <img width="383" height="822" alt="image" src="https://github.com/user-attachments/assets/57333c2b-864c-4b5a-83c0-5ea5157a328d" />
 
-<img width="383" height="818" alt="image" src="https://github.com/user-attachments/assets/8c211257-6ab1-496e-aeb9-57a3e0f61e08" />
+<img width="380" height="812" alt="image" src="https://github.com/user-attachments/assets/9ad89d9a-eda4-4ca4-b0c8-7297fa2574a4" />
 
 <img width="370" height="813" alt="image" src="https://github.com/user-attachments/assets/512b2284-062b-4578-a629-9fdc208ca607"/> 
 
